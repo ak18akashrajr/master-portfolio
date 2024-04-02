@@ -1,16 +1,16 @@
-import Work1 from '../../assets/proj_1.png';
+import Work1 from '../../assets/frame1.png';
 import Work2 from '../../assets/proj_2.png';
 export const projectsData = [
     {
         id: 1,
         image: Work1,
-        title: 'Apple Website Recreation',
+        title: 'Spotify UI Recreation',
         category: 'web'
     },
     {
         id: 2,
         image: Work2,
-        title: 'Metaverse Madness',
+        title: 'Code Quest App Design',
         category: 'web'
     },
 ];

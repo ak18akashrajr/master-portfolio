@@ -32,8 +32,8 @@ const Qualification = () => {
                         "qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">B.Tech-Artificial Intelligence and Data Science</h3>
-                                <span className="qualification__subtitle">Sri Sairam Engineering College</span>
+                                <h3 className="qualification__title">B.Tech Information Technology</h3>
+                                <span className="qualification__subtitle">Sri Sairam Institute of Technology</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calender-alt">2021 - 2025</i>
                                 </div>
@@ -54,7 +54,7 @@ const Qualification = () => {
                             </div>
                             <div>
                                 <h3 className="qualification__title">Higher Secondary</h3>
-                                <span className="qualification__subtitle">Nazareth Matric. Hr. Sec. School</span>
+                                <span className="qualification__subtitle">Kendriya Vidyalaya    (Air Force)</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calender-alt">2019 - 2021</i>
                                 </div>
@@ -67,10 +67,10 @@ const Qualification = () => {
                         "qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Software Development Intern</h3>
-                                <span className="qualification__subtitle">Workiy Inc. Canada</span>
+                                <h3 className="qualification__title">Web Developer</h3>
+                                <span className="qualification__subtitle">YesPanchi Tech Services Pvt Ltd</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender-alt">Mar 2024 - Apr 2024</i>
+                                    <i className="uil uil-calender-alt">Feb 2024 - Apr 2024</i>
                                 </div>
                             </div>
 
@@ -88,10 +88,10 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">ML Engineer Intern</h3>
-                                <span className="qualification__subtitle">Shade 6, Mumbai</span>
+                                <h3 className="qualification__title">UX UI Designer</h3>
+                                <span className="qualification__subtitle">Hyundai Motors India</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender-alt">Sep 2023 - Oct 2023</i>
+                                    <i className="uil uil-calender-alt">Mar 2023 - Apr 2023</i>
                                 </div>
                             </div>
                         </div>

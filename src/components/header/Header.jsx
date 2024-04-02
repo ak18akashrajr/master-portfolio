@@ -15,7 +15,9 @@ const Header = () => {
         <header className="header">
             <nav className="nav container">
                 <a href="index.html" className="nav__logo">
-                    Akash Raj R
+                {/* <img src={signImg} alt="" className='sign_img' /> */}
+                    
+            Nandini L
                 </a>
                 <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
                     <ul className="nav__list grid">

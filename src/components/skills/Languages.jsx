@@ -21,7 +21,7 @@ const Languages = () => {
 
                         <div>
                             <h3 className="skills__name">Java</h3>
-                            <span className="skills__level">Basic</span>
+                            <span className="skills__level">Intermediate</span>
                         </div>
                     </div>
 
@@ -59,7 +59,7 @@ const Languages = () => {
 
                         <div>
                             <h3 className="skills__name">ReactJS</h3>
-                            <span className="skills__level">Intermediate</span>
+                            <span className="skills__level">Basic</span>
                         </div>
                     </div>
                 </div>
